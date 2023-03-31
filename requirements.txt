@@ -1,0 +1,6 @@
+pandas
+numpy
+openai
+streamlit
+PyPDF2
+Pillow
